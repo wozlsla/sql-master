@@ -32,3 +32,30 @@ CREATE TABLE users (
 
 DROP TABLE users;
 
+
+INSERT INTO users (
+	username,
+	email,
+	gender,
+	interests,
+	bio,
+	age,
+	is_admin,
+	birth_date,
+	bed_time,
+	graduation_year
+) VALUES (
+	'p1',
+	'p1@harmony.com',
+	'Female',
+	'Music,Art',
+	'I like kpop',
+	29,
+	TRUE,
+	'1996.03.07', -- 19960307 1996-03-07 1996/03/07
+	'23:30', -- 233000 23:30:00 23 
+	'2024'
+)
+
+
+
