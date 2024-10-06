@@ -12,4 +12,4 @@ SQLite (v3.46). MySQL (v8.4.0). PostgreSQL (v17). MongoDB (8.0). Redis (7.2)
 <br/>
   
 ### 📝 Link  
-Notion : Lectures / [SQL Master](https://www.notion.so/SQL-Master-d1e0d3b6de104f36b4cccf51a40cdcca?pvs=97#108d382c218d8053ac4fc09236148531)
+Notion : Lectures / [SQL Master](https://www.notion.so/wozlsla/SQL-Master-d1e0d3b6de104f36b4cccf51a40cdcca "SQL Master")
